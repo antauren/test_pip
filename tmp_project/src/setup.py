@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='demo6',
+    name='demo7',
     version='0.3.1',
     description='News for Django',
     author='Elias',
