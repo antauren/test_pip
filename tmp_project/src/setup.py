@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='demo3',
+    name='demo4',
     version='0.3.1',
     description='News for Django',
     author='Elias',
@@ -11,7 +11,7 @@ setup(
     # zip_safe=False,
     include_package_data=True,
     # dependency_links=['git+ssh://git@git.home.com/app-admintools@v0.1#egg=admintools-0.1'],  # line 13
-    install_requires=['requests==2.24.0'],  # line 14
+    install_requires=['pillow'],  # line 14
     # classifiers=[
     #     'Development Status :: 5 - Production/Stable',
     #     'Environment :: Web Environment',
